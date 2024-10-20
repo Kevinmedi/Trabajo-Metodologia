@@ -1,0 +1,14 @@
+C:\Users\kmedi\source\repos\Invent\Invent\obj\Debug\net8.0\Invent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmedi\source\repos\Invent\Invent\obj\Debug\net8.0\Invent.AssemblyInfoInputs.cache
+C:\Users\kmedi\source\repos\Invent\Invent\obj\Debug\net8.0\Invent.AssemblyInfo.cs
+C:\Users\kmedi\source\repos\Invent\Invent\obj\Debug\net8.0\Invent.csproj.CoreCompileInputs.cache
+C:\Users\kmedi\source\repos\Invent\Invent\bin\Debug\net8.0\Invent.exe
+C:\Users\kmedi\source\repos\Invent\Invent\bin\Debug\net8.0\Invent.deps.json
+C:\Users\kmedi\source\repos\Invent\Invent\bin\Debug\net8.0\Invent.runtimeconfig.json
+C:\Users\kmedi\source\repos\Invent\Invent\bin\Debug\net8.0\Invent.dll
+C:\Users\kmedi\source\repos\Invent\Invent\bin\Debug\net8.0\Invent.pdb
+C:\Users\kmedi\source\repos\Invent\Invent\obj\Debug\net8.0\Invent.dll
+C:\Users\kmedi\source\repos\Invent\Invent\obj\Debug\net8.0\refint\Invent.dll
+C:\Users\kmedi\source\repos\Invent\Invent\obj\Debug\net8.0\Invent.pdb
+C:\Users\kmedi\source\repos\Invent\Invent\obj\Debug\net8.0\Invent.genruntimeconfig.cache
+C:\Users\kmedi\source\repos\Invent\Invent\obj\Debug\net8.0\ref\Invent.dll

@@ -1,0 +1,14 @@
+C:\Users\kmedi\source\repos\Diccionario\Diccionario\bin\Debug\net8.0\Diccionario.exe
+C:\Users\kmedi\source\repos\Diccionario\Diccionario\bin\Debug\net8.0\Diccionario.deps.json
+C:\Users\kmedi\source\repos\Diccionario\Diccionario\bin\Debug\net8.0\Diccionario.runtimeconfig.json
+C:\Users\kmedi\source\repos\Diccionario\Diccionario\bin\Debug\net8.0\Diccionario.dll
+C:\Users\kmedi\source\repos\Diccionario\Diccionario\bin\Debug\net8.0\Diccionario.pdb
+C:\Users\kmedi\source\repos\Diccionario\Diccionario\obj\Debug\net8.0\Diccionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmedi\source\repos\Diccionario\Diccionario\obj\Debug\net8.0\Diccionario.AssemblyInfoInputs.cache
+C:\Users\kmedi\source\repos\Diccionario\Diccionario\obj\Debug\net8.0\Diccionario.AssemblyInfo.cs
+C:\Users\kmedi\source\repos\Diccionario\Diccionario\obj\Debug\net8.0\Diccionario.csproj.CoreCompileInputs.cache
+C:\Users\kmedi\source\repos\Diccionario\Diccionario\obj\Debug\net8.0\Diccionario.dll
+C:\Users\kmedi\source\repos\Diccionario\Diccionario\obj\Debug\net8.0\refint\Diccionario.dll
+C:\Users\kmedi\source\repos\Diccionario\Diccionario\obj\Debug\net8.0\Diccionario.pdb
+C:\Users\kmedi\source\repos\Diccionario\Diccionario\obj\Debug\net8.0\Diccionario.genruntimeconfig.cache
+C:\Users\kmedi\source\repos\Diccionario\Diccionario\obj\Debug\net8.0\ref\Diccionario.dll

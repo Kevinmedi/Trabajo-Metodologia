@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kmedi\\source\\repos\\Invent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04C84904-FB68-4F00-BCE2-BB9F265FA9C6}|Invent\\Invent.csproj|c:\\users\\kmedi\\source\\repos\\invent\\invent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C84904-FB68-4F00-BCE2-BB9F265FA9C6}|Invent\\Invent.csproj|solutionrelative:invent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kmedi\\source\\repos\\Invent\\Invent\\Program.cs",
+              "RelativeDocumentMoniker": "Invent\\Program.cs",
+              "ToolTip": "C:\\Users\\kmedi\\source\\repos\\Invent\\Invent\\Program.cs",
+              "RelativeToolTip": "Invent\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T00:59:50.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
